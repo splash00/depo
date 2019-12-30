@@ -1,0 +1,4 @@
+proje derleyicide açıldıktan sonra library kısmına src>libraries klasöründeki 4 jar dosyası eklenmelidir.
+Run yapılırken src>stok_takip klasöründeki Giris_ekrani.java dosyası seçilmelidir.
+Mysql dosyalarını hny_stok_takip database nin içine import edilmelidir.
+ip:localhost	port:3306	user:root	password:admin
